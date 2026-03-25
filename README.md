@@ -33,7 +33,9 @@ Friends Services Alliance – Broadmead
 
 ## Interests
 
-Data Analytics, Machine Learning, Data Visualization, and Healthcare Data Applications  
+- Data Analytics and Data Visualization
+- Machine Learning
+- Healthcare Data Applications  
 
 ## Contact
 
