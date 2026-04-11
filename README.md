@@ -40,4 +40,5 @@ Friends Services Alliance – Broadmead
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/nrajesh1  
-- Email: nrajesh@gmu.edu  
+- Email: nrajesh@gmu.edu
+- Other email: neharajesh8@gmail.com
