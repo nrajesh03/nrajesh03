@@ -105,7 +105,7 @@ Computational and Data Sciences senior at George Mason University with experienc
 
 ## Currently Learning
 
-- Machine Learning Model Optimization
+- Certification: Machine Learning Model Optimization
 
 ---
 
